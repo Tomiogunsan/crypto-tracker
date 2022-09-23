@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    font-size: 2rem;
+    color: #F1B007;
+}
+
+.yellow {
+    color: #F1B007;
+}
